@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Domino987/aoc_3_19/static/css/main.b100e6da.chunk.css",
+    "main.js": "/Domino987/aoc_3_19/static/js/main.14a7224f.chunk.js",
+    "main.js.map": "/Domino987/aoc_3_19/static/js/main.14a7224f.chunk.js.map",
+    "runtime-main.js": "/Domino987/aoc_3_19/static/js/runtime-main.2832a4d7.js",
+    "runtime-main.js.map": "/Domino987/aoc_3_19/static/js/runtime-main.2832a4d7.js.map",
+    "static/js/2.df45c701.chunk.js": "/Domino987/aoc_3_19/static/js/2.df45c701.chunk.js",
+    "static/js/2.df45c701.chunk.js.map": "/Domino987/aoc_3_19/static/js/2.df45c701.chunk.js.map",
+    "index.html": "/Domino987/aoc_3_19/index.html",
+    "precache-manifest.54387b2be450d9408b5668f57124944c.js": "/Domino987/aoc_3_19/precache-manifest.54387b2be450d9408b5668f57124944c.js",
+    "service-worker.js": "/Domino987/aoc_3_19/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/Domino987/aoc_3_19/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2832a4d7.js",
+    "static/js/2.df45c701.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.14a7224f.chunk.js"
+  ]
+}
