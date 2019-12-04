@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Domino987/aoc_3_19/precache-manifest.ee3fa13903f816cad134231ec15d53f4.js"
+  "/Domino987/aoc_3_19/precache-manifest.3b050fcb44c14cbe52bd560e08bc9744.js"
 );
 
 self.addEventListener('message', (event) => {
